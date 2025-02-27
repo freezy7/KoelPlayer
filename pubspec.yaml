@@ -46,12 +46,14 @@ dependencies:
   connectivity_plus: ^2.1.0
   path_provider: ^2.0.14
   scrolls_to_top: ^2.1.1
-  fading_edge_scrollview: ^3.0.0
+  fading_edge_scrollview: ^4.1.1
   version: ^3.0.2
   native_qr: ^0.0.3
   lucide_icons: ^0.257.0
   timeago: ^3.6.1
   url_launcher: ^6.3.0
+  win32: ^5.5.3
+  get: ^4.6.6
 
 dev_dependencies:
   golden_toolkit: ^0.12.0
